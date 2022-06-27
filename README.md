@@ -1,2 +1,2 @@
 # Cafe25
-HTMl CSS practice
+HTML CSS practice
