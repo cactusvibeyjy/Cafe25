@@ -8,5 +8,6 @@
 + 💨 Flex  
 + 💨 Grid
 + 반응형 🚀
-+ 깃허브 페이지 
-[프로젝트링크].(https://cactusvibeyjy.github.io/Cafe25/).
++ 깃허브 페이지
+
+[프로젝트링크](https://cactusvibeyjy.github.io/Cafe25/)
